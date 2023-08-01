@@ -136,7 +136,7 @@ section.change {
 /* Section 1 */
 .section-1 {
     flex-direction: column;
-    background: url(../Downloads/bg-section1.jpg) center no-repeat;
+    background: url(downloads/bg-section1.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -310,7 +310,7 @@ section.change {
 /* Section 5 */
 .section-5 {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
-                url(../Downloads/bg-section5.jpg) center no-repeat;
+                url(downloads/bg-section5.jpg) center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
