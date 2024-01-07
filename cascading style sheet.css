@@ -310,7 +310,7 @@ section.change {
 /* Section 5 */
 .section-5 {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
-                url(downloads/bg-section5.jpg) center no-repeat;
+                url(downloads/bg-section2.jpg) center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -373,6 +373,9 @@ section.change {
 
 /* Responsive */
 @media (max-width: 1500px) {
+    html {
+      font-size: 50%;
+    }
     .navbar {
       width: 20vw;
       padding: 2rem 0 0 2rem;
